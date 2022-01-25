@@ -7,3 +7,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ### Insertaremos una imagen
 
 ![hack](img/docker.png)
+
+### Agregamos mas informacion
+
+Esta es una prueba y practica de las cosas que podemos hacer en github
